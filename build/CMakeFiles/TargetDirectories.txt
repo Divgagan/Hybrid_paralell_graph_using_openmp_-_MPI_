@@ -1,0 +1,3 @@
+/mnt/d/Semester_06_/HPC/project_hpc_/project/build/CMakeFiles/hybrid_bfs.dir
+/mnt/d/Semester_06_/HPC/project_hpc_/project/build/CMakeFiles/edit_cache.dir
+/mnt/d/Semester_06_/HPC/project_hpc_/project/build/CMakeFiles/rebuild_cache.dir
